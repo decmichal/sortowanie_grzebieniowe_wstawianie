@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1639671395 source:c:\users\de∆\desktop\projekt\sortowanie\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<psapi.h>
+
+1639671395 source:c:\users\de∆\desktop\oficjalne_zadania_projektowe\sortowanie_grzebieniowe_wstawianie\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<psapi.h>
+
